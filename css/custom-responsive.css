@@ -2,6 +2,9 @@
 	.logo{
 	padding:5% 0px 10%;
 	}	
+	.grid_menu{
+		width:220px;
+	}
 }
 @media (max-width: 768px){
 	.logo{
@@ -13,7 +16,9 @@
     padding-top:4%;
     width: 410px;
 	}
-	
+}
+@media (max-width: 650px) and (min-width:550px){
+	.logo {padding-bottom: 31%;padding-top: 2%;}
 }
 
 @media (max-width: 480px){
@@ -27,5 +32,8 @@
 	.logo {
     padding-top: 25%;
     width: 262px;
+	}
+	.grid_menu{
+		width:228px;
 	}
 }
