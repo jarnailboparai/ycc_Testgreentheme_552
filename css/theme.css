@@ -1,6 +1,6 @@
 
 .theme_bg{
-	background:#a6250f !important;
+	background:#22a201 !important;
 	min-width:320px;
 	background-size:100% ;
 }
@@ -26,8 +26,9 @@
 	text-align:center;
 }
 .ui-header{
-	background:url(../images/header_bg.png)  !important;
+	background:#22a201 !important;
 	border:none !important;
+	border-bottom:1px solid #209602 !important;
 	
 }
 .ui-header a{
